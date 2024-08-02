@@ -23,3 +23,33 @@ I admit I have felt a new, heavier mantle of responsibility for these last two m
 I meet monthly with the Sepsis Committee to establish and update standards for prompt and guideline-driven sepsis treatment, as well as facilitate bidirectional feedback between residency and hospital leaders.
 
 Of note, the 2021 Surviving Sepsis Campaign update was released during my tenure. The increased focus on minimizing time to intervention led to controversy in our system as a nurse-initiated antibiotic  protocol in the ED was considered. I aided in systematic review of both local data and research literature, finding communication delays were more frequently to blame. Working with departmental leaders, we corrected unexpected EMR behavior which was frustrating contact with non-ED physicians once patients were admitted.
+
+## WSU USIG
+
+- [ ] submitted
+
+
+## Women and Childrens' Free Restaurant
+
+- [ ] submitted
+
+
+## Providence Sacred Heart Medical Center / Spokane Teaching Health Internal Medicine Residency
+
+- [ ] submitted
+
+
+### Most important #2
+
+- [ ] submitted
+
+
+## Procedural trainer
+
+- [ ] submitted
+
+
+## Nodules case report?
+
+- [ ] submitted
+
