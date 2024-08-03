@@ -14,7 +14,9 @@ My ongoing research project is detailed below.
 
 ### Most Meaningful #1
 
-I admit I have felt a new, heavier mantle of responsibility for these last two months. That has fueled me to do more reading, more detailed exams, and more comprehensive histories than ever before. Even more complex is the careful creation of a team environment which affords appropriate autonomy to trainees without risking poor outcomes. I have found it suprisingly easy to take control of a case as attending, even unintentionally. I have derived immense satisfaction at seeing my trainees' progress with my guidance.
+- [ ] submitted
+
+In this role, I've felt a heightened responsibility, but not from sources I expected. While my training prepared me for the medical aspect, creating a team environment with appropriate autonomy has required more thought and care. As I have improved, it is gratifying to witness my trainees' growth.
 
 ## Sacred Heart Medical Center Sepsis Committee
 
