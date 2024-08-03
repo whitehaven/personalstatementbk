@@ -45,15 +45,6 @@ The WCFR is a local Spokane organization which assembles shelf-stable meals from
 
 My wife and I volunteer regularly there sorting, preparing, and distributing meals. In addition to being a worthy cause, it serves as time to stay out of the spotlight and listen to the experiences of others.
 
-## Providence Sacred Heart Medical Center / Spokane Teaching Health Internal Medicine Residency
-
-- [ ] submitted
-
-
-### Most important #2
-
-- [ ] submitted
-
 ## POCUS Project
 
 - [ ] submitted
@@ -62,7 +53,4 @@ During my training, I observed that while point-of-care ultrasound is frequently
 
 As part of the Clinician Educator Fellowship, I am leading a project to use rapid spaced repetition with feedback to elevate trainees' proficiency, enabling them to use ultrasound imaging on an independent and accurate basis. As their use of ultrasound becomes more regular, I hypothesize they will continue building their skills autonomously. I will be happy to provide results when available.
 
-## Nodules case report?
-
-- [ ] submitted
-
+- [ ] remove residency from experiences?
