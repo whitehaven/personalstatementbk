@@ -56,9 +56,9 @@ My wife and I volunteer regularly there sorting, preparing, and distributing mea
 
 - [ ] submitted
 
-During my training, I have noted that while point-of-care ultrasound is frequently discussed and available for use, it remains underutilized by trainees. In discussions on the matter, they frequently noted that they were certain ultrasound would add information, but they were not confident they could obtain the critical views unassisted. Similarly, those who did make regular use of ultrasound universally identified the experience of performing frequent repeat examinations leading to greater skill and confidence, often in the ICU.
+During my training, I observed that while point-of-care ultrasound is frequently discussed and available, it remains underutilized by trainees. They often acknowledge its value but lack confidence in obtaining critical views unassisted. Conversely, regular users of POCUS gain skill and confidence through repeated practice.
 
-As part of the Clinician Educator Fellowship, I am performing a targeted project to make use of rapid spaced repetition with feedback to accelerate the user to a level of proficiency such that they would make accurate use of ultrasound imaging on their own and thus take over the process of building their own skill.
+As part of the Clinician Educator Fellowship, I am leading a project to use rapid spaced repetition with feedback to elevate trainees' proficiency, enabling them to use ultrasound imaging on an independent and accurate basis. As their use of ultrasound becomes more regular, I hypothesize they will continue building their skills autonomously. I will be happy to provide results when available.
 
 ## Nodules case report?
 
