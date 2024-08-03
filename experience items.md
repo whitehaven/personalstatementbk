@@ -26,8 +26,13 @@ Of note, the 2021 Surviving Sepsis Campaign update was released during my tenure
 
 ## WSU USIG
 
-- [ ] submitted
+- [x] submitted
 
+Planned, demonstrated, and guided WSU medical students through procedure-focused ultrasound skills workshop over 4 large sessions each year recurring yearly, totalling about 250 students.
+
+My session focuses on micro-skills of central line placement as a springboard to build students' facility with orienting to ultrasound anatomy and pairing this to hand skills.
+
+I created and successively refined the didactics and realistic practice models using ballistics gel and tubing. Last year I added 3D printed clavicles to introduce the subclavian approach in addition to the more traditional unobstructed femoral/jugular simulation, making for a greater challenge for those interested.
 
 ## Women and Childrens' Free Restaurant
 
