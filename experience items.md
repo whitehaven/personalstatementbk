@@ -8,7 +8,7 @@ This program is similar to a traditional chief resident year, but more focus is 
 
 I serve as attending physician in the inpatient and clinic settings while working on my projects in the background. Additionally, I teach education sessions during rounds and one noon conference sessions per month.
 
-My research project is detailed below.
+My ongoing research project is detailed below.
 
 - [ ] TODO: add research project entry
 
@@ -52,11 +52,13 @@ My wife and I volunteer regularly there sorting, preparing, and distributing mea
 
 - [ ] submitted
 
-
-## Procedural trainer
+## POCUS Project
 
 - [ ] submitted
 
+During my training, I have noted that while point-of-care ultrasound is frequently discussed and available for use, it remains underutilized by trainees. In discussions on the matter, they frequently noted that they were certain ultrasound would add information, but they were not confident they could obtain the critical views unassisted. Similarly, those who did make regular use of ultrasound universally identified the experience of performing frequent repeat examinations leading to greater skill and confidence, often in the ICU.
+
+As part of the Clinician Educator Fellowship, I am performing a targeted project to make use of rapid spaced repetition with feedback to accelerate the user to a level of proficiency such that they would make accurate use of ultrasound imaging on their own and thus take over the process of building their own skill.
 
 ## Nodules case report?
 
