@@ -36,12 +36,12 @@ I created and successively refined the didactics and realistic practice models u
 
 ## Women and Childrens' Free Restaurant
 
-- [ ] submitted
+- [x] submitted
 - [ ] uncheck stop date
 
 The WCFR is a local Spokane organization which assembles shelf-stable meals from donated food for distribution, and provides meals directly to homeless shelters.
 
-My wife and I volunteer regularly there sorting, preparing, and distributing meals. In addition to being a worthwhile cause, it serves as time to stay out of the spotlight and listen to the experiences of others.
+My wife and I volunteer regularly there sorting, preparing, and distributing meals. In addition to being a worthy cause, it serves as time to stay out of the spotlight and listen to the experiences of others.
 
 ## Providence Sacred Heart Medical Center / Spokane Teaching Health Internal Medicine Residency
 
