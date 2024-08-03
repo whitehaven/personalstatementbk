@@ -39,7 +39,7 @@ I created and successively refined the didactics and realistic practice models u
 ## Women and Childrens' Free Restaurant
 
 - [x] submitted
-- [ ] uncheck stop date
+- [x] uncheck stop date
 
 The WCFR is a local Spokane organization which assembles shelf-stable meals from donated food for distribution, and provides meals directly to homeless shelters.
 
