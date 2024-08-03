@@ -6,11 +6,11 @@
 
 This program is similar to a traditional chief resident year, but more focus is placed on building didactic skills and completing long-term education projects. This program resembles a traditional chief resident year but emphasizes developing didactic skills and completing long-term education projects.
 
-I serve as attending physician in the inpatient and clinic settings while working on my projects in the background. Additionally, I teach education sessions during rounds and one noon conference sessions per month.
+I serve as attending physician in the inpatient and clinic settings while working on my projects in the background. Additionally, I teach regularly on inpatient rounds and at noon conference.
 
 My ongoing research project is detailed below.
 
-- [ ] TODO: add research project entry
+- [x] TODO: add research project entry
 
 ### Most Meaningful #1
 
