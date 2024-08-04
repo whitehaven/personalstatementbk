@@ -34,7 +34,7 @@ Planned, demonstrated, and guided WSU medical students through procedure-focused
 
 My session focuses on micro-skills of central line placement as a springboard to build students' facility with orienting to ultrasound anatomy and pairing this to hand skills.
 
-I created and successively refined the didactics and realistic practice models using ballistics gel and tubing. Last year I added 3D printed clavicles to introduce the subclavian approach in addition to the more traditional unobstructed femoral/jugular simulation, making for a greater challenge for those interested.
+I created and successively refined the didactics and realistic practice models using ballistics gel and tubing. Last year I added 3D-printed clavicles to introduce the greater challenge of the subclavian approach in contrast to the traditional unobstructed femoral or jugular simulation for interested learners.
 
 ## Women and Childrens' Free Restaurant
 
