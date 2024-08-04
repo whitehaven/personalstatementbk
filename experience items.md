@@ -47,9 +47,9 @@ My wife and I volunteer regularly there sorting, preparing, and distributing mea
 
 ## POCUS Project
 
-- [ ] submitted
+- [x] submitted 2024-08-03 | 19:27:26 PDT
 
-During my training, I observed that while point-of-care ultrasound is frequently discussed and available, it remains underutilized by trainees. They often acknowledge its value but lack confidence in obtaining critical views unassisted. Conversely, regular users of POCUS gain skill and confidence through repeated practice.
+During my training, I observed that while point-of-care ultrasound is frequently discussed and available, it remains underutilized by trainees. They often acknowledge its value but lack confidence in obtaining critical views unassisted. Conversely, regular users of POCUS are freed to develop further skill alone once they overcome that initial barrier.
 
 As part of the Clinician Educator Fellowship, I am leading a project to use rapid spaced repetition with feedback to elevate trainees' proficiency, enabling them to use ultrasound imaging on an independent and accurate basis. As their use of ultrasound becomes more regular, I hypothesize they will continue building their skills autonomously. I will be happy to provide results when available.
 
