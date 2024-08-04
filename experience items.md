@@ -2,7 +2,7 @@
 
 ## CEF
 
-- [ ] submitted
+- [x] submitted
 
 This program is similar to a traditional chief resident year, but more focus is placed on building didactic skills and completing long-term education projects. This program resembles a traditional chief resident year but emphasizes developing didactic skills and completing long-term education projects.
 
@@ -14,7 +14,7 @@ My ongoing research project is detailed below.
 
 ### Most Meaningful #1
 
-- [ ] submitted
+- [x] submitted 2024-08-03 | 20:36:59 PDT
 
 In this role, I've felt a heightened responsibility, but not from sources I expected. While my training prepared me for the medical aspect, creating a team environment with appropriate autonomy has required more thought and care. As I have improved, it is gratifying to witness my trainees' growth.
 
