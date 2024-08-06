@@ -38,14 +38,17 @@ I created and successively refined both the teaching approach and realistic prac
 
 ## Women and Childrens' Free Restaurant
 
-- [x] submitted 2024-08-03 | 19:37:00 PDT
-- [x] uncheck stop date
+- [ ] submit
 
-The WCFR is a local Spokane organization which assembles shelf-stable meals from donated food for distribution, and provides meals directly to homeless shelters.
+The WCFR is a local Spokane organization which assembles shelf-stable meals from donated food for distribution, and provides meals directly to homeless shelters. My wife and I volunteer there regularly sorting, preparing, and distributing meals.
 
 The Restaurant does not require verification of low income. While this is counterintuitive, I have learned that many domesic violence cases involve undue control of finances on the part of an abusive spouse, meaning inadequate funds are available for food despite the appearance of a comfortable income.
 
-My wife and I volunteer there regularly sorting, preparing, and distributing meals. In addition to being a worthy cause, it serves as time to stay out of the spotlight and listen to the experiences of others, like those above.
+### Most important 2
+
+- [ ] submit
+
+In addition to being a worthy cause, working at the Restaurant serves as time to stay out of the spotlight and listen to the experiences of others.
 
 ## POCUS Project
 
