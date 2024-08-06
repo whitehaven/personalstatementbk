@@ -10,8 +10,6 @@ I serve as attending physician in the inpatient and clinic settings while workin
 
 My ongoing research project is detailed below.
 
-- [x] TODO: add research project entry
-
 ### Most Meaningful #1
 
 - [x] submitted 2024-08-03 | 20:36:59 PDT
@@ -38,15 +36,15 @@ I created and successively refined both the teaching approach and realistic prac
 
 ## Women and Childrens' Free Restaurant
 
-- [ ] submit
+- [x] submit 2024-08-05 | 22:00:39 PDT
 
 The WCFR is a local Spokane organization which assembles shelf-stable meals from donated food for distribution, and provides meals directly to homeless shelters. My wife and I volunteer there regularly sorting, preparing, and distributing meals.
 
-The Restaurant does not require verification of low income. While this is counterintuitive, I have learned that many domesic violence cases involve undue control of finances on the part of an abusive spouse, meaning inadequate funds are available for food despite the appearance of a comfortable income.
+The Restaurant does not require verification of low income. While this is counterintuitive, I have learned that many domestic violence cases involve undue control of finances on the part of an abusive spouse, meaning inadequate funds are available for food despite the appearance of a comfortable income.
 
 ### Most important 2
 
-- [ ] submit
+- [x] submit 2024-08-05 | 22:00:43 PDT
 
 In addition to being a worthy cause, working at the Restaurant serves as time to stay out of the spotlight and listen to the experiences of others.
 
